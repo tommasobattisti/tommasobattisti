@@ -1,6 +1,6 @@
 # Hi there 👋
-- 🌱 I’m currently studying Digital Humanities at the University of Bologna
-- 🌳 Aiming at developing something useful
-- 📫 How to reach me: tommaso.battisti4@studio.unibo.it | tommasobattisti@icloud.com
+- 🌱 Currently studying Digital Humanities at the University of Bologna
+- 📫 Institutional e-mail: tommaso.battisti4@studio.unibo.it
+- 📫 Personal e-mail: tommasobattisti@icloud.com
 ## My DH Portfolio
-- A Knowledge Organization and Cultural Heritage project in collaboration with @Postitisnt and @teragramgius: https://sklodowskaproject.github.io/
+- A project for the Knowledge Organization and Cultural Heritage course of the University of Bologna in collaboration with @Postitisnt and @teragramgius: https://sklodowskaproject.github.io/
