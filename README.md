@@ -1,6 +1,4 @@
 # Hi there!
-- 🌱 Currently studying Digital Humanities at the University of Bologna
-- 📫 Institutional e-mail: tommaso.battisti4@studio.unibo.it
-- 📫 Personal e-mail: tommasobattisti@icloud.com
-## My DH Portfolio
-- SkŁODowska - A Linked Open Data project for the Knowledge Organization and Cultural Heritage course of the University of Bologna: <a href="https://sklodowskaproject.github.io/">Website</a> | <a href="https://github.com/SkLODowskaProject/sklodowskaproject.github.io.git">Repository</a>
+- 🌱 Currently attending a master's degree in [Digital Humanities and Digital Knowledge (DHDK)](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) at the University of Bologna
+- 💻 Some DHDK projects: [Portfolio](https://github.com/tommasobattisti/DHDKPortfolio.git)
+- 📫 You can reach me at: tommasobattisti@icloud.com
