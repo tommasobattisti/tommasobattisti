@@ -5,3 +5,5 @@
 - 📫 You can reach me at: tommasobattisti@icloud.com (personal) | tommaso.battisti4@studio.unibo.it (institutional)
 
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tommasobattisti&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)--!>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
