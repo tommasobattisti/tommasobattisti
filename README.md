@@ -13,6 +13,11 @@ Hi there, I'm Tommaso, a [Digital Humanities and Digital Knowledge (DHDK)](https
 - Personal email: tommasobattisti@icloud.com
 - Institutional email: tommaso.battisti4@studio.unibo.it
 
+
+![Tommaso's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommasobattisti&count_private=true&theme=rose_pine&show_icons=true\&rank_icon=github)
+
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tommasobattisti&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)--!>
+
+
 
 
