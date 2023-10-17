@@ -1,4 +1,4 @@
-<h1>Tommaso Battisti—@tommasobattisti</h1>
+<h1>Tommaso Battisti — <i>@tommasobattisti</i></h1>
 
 Hi there, I'm Tommaso, a [Digital Humanities and Digital Knowledge (DHDK)](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) student at the University of Bologna with some experience in the field of UX/UI design.
 
