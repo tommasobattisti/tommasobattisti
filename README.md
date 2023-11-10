@@ -1,12 +1,18 @@
-<h1>Tommaso Battisti — <i>@tommasobattisti</i></h1>
+<h1>Tommaso Battisti —— <i>@tommasobattisti</i></h1>
 
-Hi there, I'm Tommaso, a [Digital Humanities and Digital Knowledge (DHDK)](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) student at the University of Bologna with some experience in the field of UX/UI design.
+I'm a digital explorer with a master's in [Digital Humanities and Digital Knowledge (DHDK)](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) and a pinch of machine learning magic. My bachelor's in Cinema and New Media fuels my creativity, bringing a storytelling twist to tech.
+
+Currently rocking the PhD student hat in [Cultural Heritage and Digital Ecosystem](https://phd.unibo.it/chede/en), I'm not just about theories —— I've got real-world UI/UX design chops.
+
+Off-duty, you'll find me nose-deep in a book or chasing the perfect snapshot ([check out some photos](https://tommasobattisti.github.io/tommasobattistiph/index.html)) —— The world is full of stories and I love telling them in pixels and paragraphs!
 
 
 ## Links
+[![](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7980-3334)
 [![My Portfolio](https://img.shields.io/badge/my_DHDK_projects-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tommasobattisti/DHDKPortfolio.git)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/tommaso-battisti/it)
 [![photography website](https://img.shields.io/badge/My_Photography_Website-00979E?style=for-the-badge&logo=photobucket&logoColor=white)](https://tommasobattisti.github.io/tommasobattistiph/index.html)
+
 
 
 ## Stats
