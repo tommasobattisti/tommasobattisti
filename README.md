@@ -2,7 +2,7 @@
 
 I'm a digital explorer with a master's in [Digital Humanities and Digital Knowledge (DHDK)](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) and a pinch of machine learning magic. My bachelor's in Cinema and New Media fuels my creativity, bringing a storytelling twist to tech.
 
-Currently rocking the PhD student hat in [Cultural Heritage and Digital Ecosystem](https://phd.unibo.it/chede/en), I'm not just about theories —— I've got real-world UI/UX design chops.
+Currently rocking the PhD student hat in [Cultural Heritage in the Digital Ecosystem](https://phd.unibo.it/chede/en), I'm not just about theories —— I've got real-world UI/UX design chops.
 
 Off-duty, you'll find me nose-deep in a book or chasing the perfect snapshot ([check out some photos](https://tommasobattisti.github.io/tommasobattistiph/index.html)).
 
