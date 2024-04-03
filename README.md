@@ -8,6 +8,7 @@ Off-duty, you'll find me nose-deep in a book or chasing the perfect snapshot ([c
 
 
 ## Links
+
 [![](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7980-3334)
 [![My Portfolio](https://img.shields.io/badge/my_DHDK_projects-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tommasobattisti/DHDKPortfolio.git)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/tommaso-battisti/it)
@@ -21,15 +22,23 @@ Off-duty, you'll find me nose-deep in a book or chasing the perfect snapshot ([c
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommasobattisti\&layout=donut&theme=github_dark)](https://github.com/tommasobattisti/github-readme-stats)
 
--->
 ![snake animation](https://github.com/tommasobattisti/tommasobattisti/blob/output/github-contribution-grid-snake-dark.svg)
 
-<a href="https://github.com/tommasobattisti/github-readme-stats">
+-->
+
+
+<div width=100%>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tommasobattisti&count_private=true&theme=github_dark&show_icons=true\&rank_icon=github" />
-</a>
-<a href="https://github.com/tommasobattisti/convoychat">
+
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommasobattisti&layout=donut&theme=github_dark&card_width=320" />
-</a>
+
+  <img src="https://github.com/tommasobattisti/tommasobattisti/blob/output/github-contribution-grid-snake-dark.svg" width=100%>
+</div>
+
+
+
+
+
 
 
 ## Get in touch
