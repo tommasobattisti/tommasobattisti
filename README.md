@@ -22,7 +22,7 @@ Off-duty, you'll find me nose-deep in a book or chasing the perfect snapshot ([c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommasobattisti\&layout=donut&theme=github_dark)](https://github.com/tommasobattisti/github-readme-stats)
 
 -->
-![Snake animation](https://raw.githubusercontent.com/tommasobattisti/tommasobattisti/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/tommasobattisti/tommasobattisti/blob/output/github-contribution-grid-snake2.svg)
 
 <a href="https://github.com/tommasobattisti/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tommasobattisti&count_private=true&theme=github_dark&show_icons=true\&rank_icon=github" />
