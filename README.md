@@ -7,6 +7,10 @@ Currently rocking the PhD student hat in [Cultural Heritage in the Digital Ecosy
 Off-duty, you'll find me nose-deep in a book or chasing the perfect snapshot → [check out some!](https://tommasobattisti.github.io/tommasobattistiph/index.html)
 
 
+
+#### Last work </br> [BolDH – Bologna Digital Humanities](https://dharc-org.github.io/boldh/index.html) → Website redesign and development
+
+
 ## Links
 
 [![](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7980-3334)
