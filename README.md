@@ -4,7 +4,7 @@ I'm a digital explorer with a master's in [Digital Humanities and Digital Knowle
 
 Currently rocking the PhD student hat in [Cultural Heritage in the Digital Ecosystem](https://phd.unibo.it/chede/en) focusing on data-driven storytelling and Information Visualization. I'm also deepening web development and design topics, but I'm not just about theories —— I've got real-world UI/UX design chops.
 
-Off-duty, you'll find me nose-deep in a book or chasing the perfect snapshot ([check out some photos](https://tommasobattisti.github.io/tommasobattistiph/index.html)).
+Off-duty, you'll find me nose-deep in a book or chasing the perfect snapshot → [check out some!](https://tommasobattisti.github.io/tommasobattistiph/index.html)
 
 
 ## Links
