@@ -8,7 +8,7 @@ Off-duty, you'll find me nose-deep in a book or chasing the perfect snapshot ([c
 
 
 #### 🌱 Currently I'm learning D3 and React 
-#### 👨‍💻 Lately working on the redesign and development of [BolDH – Bologna Digital Humanities](https://dharc-org.github.io/boldh/index.html)
+#### 👨‍💻 Lately I've been working on the redesign and development of [BolDH – Bologna Digital Humanities](https://dharc-org.github.io/boldh/index.html)
 
 
 
