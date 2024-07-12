@@ -7,7 +7,7 @@ At present, I'm rocking the PhD student hat in [Cultural Heritage in the Digital
 Off-duty, you'll find me nose-deep in a book or chasing the perfect snapshot ([check out some!](https://tommasobattisti.github.io/tommasobattistiph/index.html))
 
 
-#### 🌱 Currently I'm learning D3 and React 
+#### 🌱 I'm currently learning D3 and React 
 #### 👨‍💻 Lately I've been working on the redesign and development of [BolDH – Bologna Digital Humanities](https://dharc-org.github.io/boldh/index.html)
 
 
