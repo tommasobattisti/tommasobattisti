@@ -1,13 +1,8 @@
 <h1>Tommaso Battisti —— <i>@tommasobattisti</i></h1>
 
-I'm a digital explorer with a master's in [Digital Humanities and Digital Knowledge (DHDK)](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) and a pinch of machine learning magic.
+PhD student in [Cultural Heritage in the Digital Ecosystem](https://phd.unibo.it/chede/en) with a focus on **Information Visualization** for the **Digital Humanities** and real-world UI/UX design experience.
 
-At present, I'm rocking the PhD student hat in [Cultural Heritage in the Digital Ecosystem](https://phd.unibo.it/chede/en) focusing on **data-driven storytelling** and **Information Visualization**. I'm also deepening **web development** and **design** topics, but I'm not just about theories —— I've got real-world UI/UX design chops.
-
-Off-duty, you'll find me nose-deep in a book or chasing the perfect snapshot ([check out some!](https://tommasobattisti.github.io/tommasobattistiph/index.html))
-
-
-#### 🌱 I'm currently learning D3 and React 
+#### 🌱 I'm currently learning D3 and React while deepening some design topics
 #### 👨‍💻 Lately I've been working on the redesign and development of [BolDH – Bologna Digital Humanities](https://dharc-org.github.io/boldh/index.html)
 
 
