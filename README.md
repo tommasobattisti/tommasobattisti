@@ -16,22 +16,26 @@ PhD student in [Cultural Heritage in the Digital Ecosystem](https://phd.unibo.it
 
 
 
-## Stats
+
 <!--
+## Stats
+
 ![Tommaso's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommasobattisti&count_private=true&theme=github_dark&show_icons=true\&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommasobattisti\&layout=donut&theme=github_dark)](https://github.com/tommasobattisti/github-readme-stats)
 
 ![snake animation](https://github.com/tommasobattisti/tommasobattisti/blob/output/github-contribution-grid-snake-dark.svg)
 
--->
+
 
 
 <div width=100%>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tommasobattisti&count_private=true&theme=github_dark&show_icons=true\&rank_icon=github" />
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommasobattisti&layout=donut&theme=github_dark&card_width=320" />
-
+</div>
+-->
+<div>
   <img src="https://github.com/tommasobattisti/tommasobattisti/blob/output/github-contribution-grid-snake-dark.svg" width=100%>
 </div>
 
