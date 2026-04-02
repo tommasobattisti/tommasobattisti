@@ -1,6 +1,6 @@
 <h1>Tommaso Battisti —— <i>@tommasobattisti</i></h1>
 
-PhD student in [Cultural Heritage in the Digital Ecosystem](https://phd.unibo.it/chede/en) with a focus on **Information Visualization** for the **Digital Humanities** and real-world UI/UX design experience.
+PhD student in [Cultural Heritage in the Digital Ecosystem](https://phd.unibo.it/chede/en) with a focus on **Information Visualization** for the **Digital Humanities**.
 
 #### 🌱 I'm currently learning D3 and React while deepening some design topics
 #### 👨‍💻 Lately I've been working on the redesign and development of [BolDH – Bologna Digital Humanities](https://dharc-org.github.io/boldh/index.html)
