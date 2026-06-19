@@ -10,8 +10,9 @@ PhD student in [Cultural Heritage in the Digital Ecosystem](https://phd.unibo.it
 ## Links
 
 [![](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7980-3334)
-<!--[![My Portfolio](https://img.shields.io/badge/my_DHDK_projects-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tommasobattisti/DHDKPortfolio.git)-->
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/tommaso-battisti/it)
+<!--[![My Portfolio](https://img.shields.io/badge/my_DHDK_projects-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tommasobattisti/DHDKPortfolio.git)-->
+
 <!--[![photography website](https://img.shields.io/badge/My_Photography_Website-00979E?style=for-the-badge&logo=photobucket&logoColor=white)](https://tommasobattisti.github.io/tommasobattistiph/index.html)-->
 
 
@@ -34,12 +35,12 @@ PhD student in [Cultural Heritage in the Digital Ecosystem](https://phd.unibo.it
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tommasobattisti&layout=donut&theme=github_dark&card_width=320" />
 </div>
--->
+
 <div>
   <img src="https://github.com/tommasobattisti/tommasobattisti/blob/output/github-contribution-grid-snake-dark.svg" width=100%>
 </div>
 
-
+-->
 
 
 
